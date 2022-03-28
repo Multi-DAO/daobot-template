@@ -19,7 +19,7 @@ export default function Form({ onSubmit, daoId, setDaoId, nftId, setNftId, curre
                         />
                     </div>
                     <div>
-                    <label htmlFor="nft">NFT id:</label>
+                        <label htmlFor="nft">NFT account address:</label>
                     <input
                             id="nft"
                             name="nft"
